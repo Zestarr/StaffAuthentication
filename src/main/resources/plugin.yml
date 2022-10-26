@@ -1,0 +1,7 @@
+name: Auth
+version: '${version}'
+main: com.spacedev.auth.Auth
+api-version: 1.13
+authors: [ Zestarr ]
+description: A authentication plugin for staff members, to provide account security!
+website: https://discord.gg/UwCuhckvYF

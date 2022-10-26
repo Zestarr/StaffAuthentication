@@ -1,0 +1,9 @@
+# -------------------------------------------------------
+
+AuthMessagePrefix: '&c&lServerAuth &8» &7' # The AuthMessagePrefix
+AuthDisplay-Permission: 'auth.displaymenu' # This is the permission the player needs for a pin to be entered on join
+Pin-Length: 4 # Please don't use decimals... It will break...
+Attempts-Before-Kick: 2 # Set to 0 to disable
+Incorrect-Pin-Past-Attempts: '&7Surpassed max pin attempts! Please contact staff if you forgot your pin.'
+
+# -------------------------------------------------------
